@@ -2,11 +2,10 @@
 
 body {
 	background-color: hsl(185, 75%, 39%);
-	overflow: hidden;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	height: 100vh;
+	min-height: 100vh;
 	font-size: 18px;
 	font-family: 'Kumbh Sans', sans-serif!important;
 }
