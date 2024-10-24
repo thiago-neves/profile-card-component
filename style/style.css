@@ -45,7 +45,7 @@ body {
   background-color: var(--white);
   border-radius: var(--radius-200);
   background-image: url("../images/bg-pattern-card.svg");
-  box-shadow: 0 0px 200px hsl(229, 23%, 23%, .5);
+  box-shadow: 0 0px 50px hsl(229, 23%, 23%, .3);
 }
 
 .picture {
